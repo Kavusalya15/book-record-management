@@ -28,3 +28,10 @@ GET :Get all issued books here
 
 ## /books/issued/withFine
 GET:Get all issued books with fine
+<!-- MVC architecture
+        >>Modal view controller
+        >>Mode & Controller r wrt backend 
+        >>view ert frontend
+        >>controller is the brain of ur route
+        -->
+<!--modal:it speaks abt the structure of mongodb collection>
